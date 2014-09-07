@@ -1,0 +1,171 @@
+Tableau 051-0045 Migrants interprovinciaux, selon la province ou territoire d'origine et de la destination, trimestriel (personnes)(1,2,7,8,9)
+Enquête ou programme::
+Estimations de la population totale, Canada, les provinces et les territoires - 3601
+Géographie, province d'origine;Géographie, province de destination;Vecteur;Coordonnée;T1 2013;T2 2013;T3 2013;T4 2013
+Terre-Neuve-et-Labrador, province d'origine (3);Île-du-Prince-Édouard, province de destination (3);v32211563;1.2;40;40;46;34
+Terre-Neuve-et-Labrador, province d'origine (3);Nouvelle-Écosse, province de destination (3);v32211564;1.3;186;441;347;175
+Terre-Neuve-et-Labrador, province d'origine (3);Nouveau-Brunswick, province de destination (3);v32211565;1.4;134;119;75;101
+Terre-Neuve-et-Labrador, province d'origine (3);Québec, province de destination (3);v32211566;1.5;83;85;49;105
+Terre-Neuve-et-Labrador, province d'origine (3);Ontario, province de destination (3);v32211567;1.6;505;742;776;321
+Terre-Neuve-et-Labrador, province d'origine (3);Manitoba, province de destination (3);v32211568;1.7;19;69;22;27
+Terre-Neuve-et-Labrador, province d'origine (3);Saskatchewan, province de destination (3);v32211569;1.8;35;63;65;40
+Terre-Neuve-et-Labrador, province d'origine (3);Alberta, province de destination (3);v32211570;1.9;1234;1886;803;535
+Terre-Neuve-et-Labrador, province d'origine (3);Colombie-Britannique, province de destination (3);v32211571;1.10;139;220;147;42
+Terre-Neuve-et-Labrador, province d'origine (3);Yukon, province de destination (3);v32211572;1.11;0;6;0;0
+Terre-Neuve-et-Labrador, province d'origine (3);Territoires du Nord-Ouest, province de destination (6);v32211574;1.13;39;20;26;0
+Terre-Neuve-et-Labrador, province d'origine (3);Nunavut, province de destination (6);v32211575;1.14;0;114;0;0
+Île-du-Prince-Édouard, province d'origine (3);Terre-Neuve-et-Labrador, province de destination (3);v32211576;2.1;24;4;21;4
+Île-du-Prince-Édouard, province d'origine (3);Nouvelle-Écosse, province de destination (3);v32211577;2.3;138;220;137;48
+Île-du-Prince-Édouard, province d'origine (3);Nouveau-Brunswick, province de destination (3);v32211578;2.4;179;211;187;111
+Île-du-Prince-Édouard, province d'origine (3);Québec, province de destination (3);v32211579;2.5;76;50;60;40
+Île-du-Prince-Édouard, province d'origine (3);Ontario, province de destination (3);v32211580;2.6;295;418;322;247
+Île-du-Prince-Édouard, province d'origine (3);Manitoba, province de destination (3);v32211581;2.7;0;35;0;0
+Île-du-Prince-Édouard, province d'origine (3);Saskatchewan, province de destination (3);v32211582;2.8;10;64;16;26
+Île-du-Prince-Édouard, province d'origine (3);Alberta, province de destination (3);v32211583;2.9;149;287;259;145
+Île-du-Prince-Édouard, province d'origine (3);Colombie-Britannique, province de destination (3);v32211584;2.10;38;39;78;28
+Île-du-Prince-Édouard, province d'origine (3);Yukon, province de destination (3);v32211585;2.11;0;5;0;5
+Île-du-Prince-Édouard, province d'origine (3);Territoires du Nord-Ouest, province de destination (6);v32211587;2.13;0;0;0;0
+Île-du-Prince-Édouard, province d'origine (3);Nunavut, province de destination (6);v32211588;2.14;17;6;19;0
+Nouvelle-Écosse, province d'origine (3);Terre-Neuve-et-Labrador, province de destination (3);v32211589;3.1;340;350;337;97
+Nouvelle-Écosse, province d'origine (3);Île-du-Prince-Édouard, province de destination (3);v32211590;3.2;146;199;116;28
+Nouvelle-Écosse, province d'origine (3);Nouveau-Brunswick, province de destination (3);v32211591;3.4;774;696;842;289
+Nouvelle-Écosse, province d'origine (3);Québec, province de destination (3);v32211592;3.5;70;95;288;127
+Nouvelle-Écosse, province d'origine (3);Ontario, province de destination (3);v32211593;3.6;1332;1861;1504;947
+Nouvelle-Écosse, province d'origine (3);Manitoba, province de destination (3);v32211594;3.7;104;90;95;19
+Nouvelle-Écosse, province d'origine (3);Saskatchewan, province de destination (3);v32211595;3.8;76;161;112;102
+Nouvelle-Écosse, province d'origine (3);Alberta, province de destination (3);v32211596;3.9;1621;1892;1542;675
+Nouvelle-Écosse, province d'origine (3);Colombie-Britannique, province de destination (3);v32211597;3.10;430;521;315;155
+Nouvelle-Écosse, province d'origine (3);Yukon, province de destination (3);v32211598;3.11;0;31;18;0
+Nouvelle-Écosse, province d'origine (3);Territoires du Nord-Ouest, province de destination (6);v32211600;3.13;74;84;0;26
+Nouvelle-Écosse, province d'origine (3);Nunavut, province de destination (6);v32211601;3.14;6;22;0;0
+Nouveau-Brunswick, province d'origine (3);Terre-Neuve-et-Labrador, province de destination (3);v32211602;4.1;160;166;33;60
+Nouveau-Brunswick, province d'origine (3);Île-du-Prince-Édouard, province de destination (3);v32211603;4.2;149;95;115;64
+Nouveau-Brunswick, province d'origine (3);Nouvelle-Écosse, province de destination (3);v32211604;4.3;541;751;457;406
+Nouveau-Brunswick, province d'origine (3);Québec, province de destination (3);v32211605;4.5;218;323;685;249
+Nouveau-Brunswick, province d'origine (3);Ontario, province de destination (3);v32211606;4.6;711;1181;1261;634
+Nouveau-Brunswick, province d'origine (3);Manitoba, province de destination (3);v32211607;4.7;126;49;45;22
+Nouveau-Brunswick, province d'origine (3);Saskatchewan, province de destination (3);v32211608;4.8;95;82;108;0
+Nouveau-Brunswick, province d'origine (3);Alberta, province de destination (3);v32211609;4.9;1112;1105;1452;715
+Nouveau-Brunswick, province d'origine (3);Colombie-Britannique, province de destination (3);v32211610;4.10;208;241;338;144
+Nouveau-Brunswick, province d'origine (3);Yukon, province de destination (3);v32211611;4.11;0;0;35;0
+Nouveau-Brunswick, province d'origine (3);Territoires du Nord-Ouest, province de destination (6);v32211613;4.13;0;7;29;0
+Nouveau-Brunswick, province d'origine (3);Nunavut, province de destination (6);v32211614;4.14;33;0;36;0
+Québec, province d'origine (3);Terre-Neuve-et-Labrador, province de destination (3);v32211615;5.1;26;114;78;45
+Québec, province d'origine (3);Île-du-Prince-Édouard, province de destination (3);v32211616;5.2;25;124;48;28
+Québec, province d'origine (3);Nouvelle-Écosse, province de destination (3);v32211617;5.3;155;322;311;148
+Québec, province d'origine (3);Nouveau-Brunswick, province de destination (3);v32211618;5.4;357;509;493;170
+Québec, province d'origine (3);Ontario, province de destination (3);v32211619;5.6;3007;6980;6407;4447
+Québec, province d'origine (3);Manitoba, province de destination (3);v32211620;5.7;128;176;188;129
+Québec, province d'origine (3);Saskatchewan, province de destination (3);v32211621;5.8;68;245;132;80
+Québec, province d'origine (3);Alberta, province de destination (3);v32211622;5.9;1387;2114;2262;1549
+Québec, province d'origine (3);Colombie-Britannique, province de destination (3);v32211623;5.10;474;1181;829;447
+Québec, province d'origine (3);Yukon, province de destination (3);v32211624;5.11;24;27;20;27
+Québec, province d'origine (3);Territoires du Nord-Ouest, province de destination (6);v32211626;5.13;6;17;6;0
+Québec, province d'origine (3);Nunavut, province de destination (6);v32211627;5.14;46;80;73;51
+Ontario, province d'origine (3);Terre-Neuve-et-Labrador, province de destination (3);v32211628;6.1;747;856;623;403
+Ontario, province d'origine (3);Île-du-Prince-Édouard, province de destination (3);v32211629;6.2;321;431;164;138
+Ontario, province d'origine (3);Nouvelle-Écosse, province de destination (3);v32211630;6.3;1196;1707;1299;973
+Ontario, province d'origine (3);Nouveau-Brunswick, province de destination (3);v32211631;6.4;675;1105;758;602
+Ontario, province d'origine (3);Québec, province de destination (3);v32211632;6.5;3525;4702;3934;2532
+Ontario, province d'origine (3);Manitoba, province de destination (3);v32211633;6.7;1026;1318;1137;740
+Ontario, province d'origine (3);Saskatchewan, province de destination (3);v32211634;6.8;783;1737;1006;618
+Ontario, province d'origine (3);Alberta, province de destination (3);v32211635;6.9;9027;10748;9043;5789
+Ontario, province d'origine (3);Colombie-Britannique, province de destination (3);v32211636;6.10;2719;4652;3447;2089
+Ontario, province d'origine (3);Yukon, province de destination (3);v32211637;6.11;75;97;22;40
+Ontario, province d'origine (3);Territoires du Nord-Ouest, province de destination (6);v32211639;6.13;185;136;84;0
+Ontario, province d'origine (3);Nunavut, province de destination (6);v32211640;6.14;86;220;53;0
+Manitoba, province d'origine (3);Terre-Neuve-et-Labrador, province de destination (3);v32211641;7.1;73;25;130;5
+Manitoba, province d'origine (3);Île-du-Prince-Édouard, province de destination (3);v32211642;7.2;25;5;15;0
+Manitoba, province d'origine (3);Nouvelle-Écosse, province de destination (3);v32211643;7.3;75;65;73;56
+Manitoba, province d'origine (3);Nouveau-Brunswick, province de destination (3);v32211644;7.4;72;107;22;25
+Manitoba, province d'origine (3);Québec, province de destination (3);v32211645;7.5;88;239;165;113
+Manitoba, province d'origine (3);Ontario, province de destination (3);v32211646;7.6;1112;1430;1377;729
+Manitoba, province d'origine (3);Saskatchewan, province de destination (3);v32211647;7.8;595;965;512;531
+Manitoba, province d'origine (3);Alberta, province de destination (3);v32211648;7.9;1558;2017;1803;1011
+Manitoba, province d'origine (3);Colombie-Britannique, province de destination (3);v32211649;7.10;621;887;810;617
+Manitoba, province d'origine (3);Yukon, province de destination (3);v32211650;7.11;0;4;0;0
+Manitoba, province d'origine (3);Territoires du Nord-Ouest, province de destination (6);v32211652;7.13;5;29;20;0
+Manitoba, province d'origine (3);Nunavut, province de destination (6);v32211653;7.14;14;51;25;19
+Saskatchewan, province d'origine (3);Terre-Neuve-et-Labrador, province de destination (3);v32211654;8.1;4;8;39;17
+Saskatchewan, province d'origine (3);Île-du-Prince-Édouard, province de destination (3);v32211655;8.2;0;64;0;0
+Saskatchewan, province d'origine (3);Nouvelle-Écosse, province de destination (3);v32211656;8.3;53;88;70;45
+Saskatchewan, province d'origine (3);Nouveau-Brunswick, province de destination (3);v32211657;8.4;68;24;3;44
+Saskatchewan, province d'origine (3);Québec, province de destination (3);v32211658;8.5;36;163;62;94
+Saskatchewan, province d'origine (3);Ontario, province de destination (3);v32211659;8.6;683;954;1049;707
+Saskatchewan, province d'origine (3);Manitoba, province de destination (3);v32211660;8.7;591;668;484;325
+Saskatchewan, province d'origine (3);Alberta, province de destination (3);v32211661;8.9;2766;3794;2332;1859
+Saskatchewan, province d'origine (3);Colombie-Britannique, province de destination (3);v32211662;8.10;726;1037;769;622
+Saskatchewan, province d'origine (3);Yukon, province de destination (3);v32211663;8.11;57;23;0;0
+Saskatchewan, province d'origine (3);Territoires du Nord-Ouest, province de destination (6);v32211665;8.13;32;23;22;23
+Saskatchewan, province d'origine (3);Nunavut, province de destination (6);v32211666;8.14;13;0;0;0
+Alberta, province d'origine (3);Terre-Neuve-et-Labrador, province de destination (3);v32211667;9.1;777;1089;553;474
+Alberta, province d'origine (3);Île-du-Prince-Édouard, province de destination (3);v32211668;9.2;116;69;150;64
+Alberta, province d'origine (3);Nouvelle-Écosse, province de destination (3);v32211669;9.3;507;830;594;546
+Alberta, province d'origine (3);Nouveau-Brunswick, province de destination (3);v32211670;9.4;402;600;448;363
+Alberta, province d'origine (3);Québec, province de destination (3);v32211671;9.5;391;676;648;521
+Alberta, province d'origine (3);Ontario, province de destination (3);v32211672;9.6;2995;4771;4382;3199
+Alberta, province d'origine (3);Manitoba, province de destination (3);v32211673;9.7;934;916;1048;724
+Alberta, province d'origine (3);Saskatchewan, province de destination (3);v32211674;9.8;2192;3269;2423;1642
+Alberta, province d'origine (3);Colombie-Britannique, province de destination (3);v32211675;9.10;4651;7885;5994;4163
+Alberta, province d'origine (3);Yukon, province de destination (3);v32211676;9.11;114;126;11;11
+Alberta, province d'origine (3);Territoires du Nord-Ouest, province de destination (6);v32211678;9.13;173;137;67;78
+Alberta, province d'origine (3);Nunavut, province de destination (6);v32211679;9.14;24;70;29;29
+Colombie-Britannique, province d'origine (3);Terre-Neuve-et-Labrador, province de destination (3);v32211680;10.1;88;151;135;15
+Colombie-Britannique, province d'origine (3);Île-du-Prince-Édouard, province de destination (3);v32211681;10.2;44;138;36;27
+Colombie-Britannique, province d'origine (3);Nouvelle-Écosse, province de destination (3);v32211682;10.3;230;514;298;310
+Colombie-Britannique, province d'origine (3);Nouveau-Brunswick, province de destination (3);v32211683;10.4;137;175;129;91
+Colombie-Britannique, province d'origine (3);Québec, province de destination (3);v32211684;10.5;275;699;635;523
+Colombie-Britannique, province d'origine (3);Ontario, province de destination (3);v32211685;10.6;2578;4178;3318;2123
+Colombie-Britannique, province d'origine (3);Manitoba, province de destination (3);v32211686;10.7;481;811;659;323
+Colombie-Britannique, province d'origine (3);Saskatchewan, province de destination (3);v32211687;10.8;760;1352;1040;532
+Colombie-Britannique, province d'origine (3);Alberta, province de destination (3);v32211688;10.9;7128;9991;6869;5047
+Colombie-Britannique, province d'origine (3);Yukon, province de destination (3);v32211689;10.11;96;184;50;111
+Colombie-Britannique, province d'origine (3);Territoires du Nord-Ouest, province de destination (6);v32211691;10.13;53;152;70;69
+Colombie-Britannique, province d'origine (3);Nunavut, province de destination (6);v32211692;10.14;28;85;51;32
+Yukon, province d'origine (3);Terre-Neuve-et-Labrador, province de destination (3);v32211693;11.1;15;0;0;0
+Yukon, province d'origine (3);Île-du-Prince-Édouard, province de destination (3);v32211694;11.2;0;0;0;0
+Yukon, province d'origine (3);Nouvelle-Écosse, province de destination (3);v32211695;11.3;37;11;22;0
+Yukon, province d'origine (3);Nouveau-Brunswick, province de destination (3);v32211696;11.4;21;0;0;0
+Yukon, province d'origine (3);Québec, province de destination (3);v32211697;11.5;0;55;47;55
+Yukon, province d'origine (3);Ontario, province de destination (3);v32211698;11.6;45;56;71;122
+Yukon, province d'origine (3);Manitoba, province de destination (3);v32211699;11.7;0;0;8;0
+Yukon, province d'origine (3);Saskatchewan, province de destination (3);v32211700;11.8;0;38;34;19
+Yukon, province d'origine (3);Alberta, province de destination (3);v32211701;11.9;91;112;46;20
+Yukon, province d'origine (3);Colombie-Britannique, province de destination (3);v32211702;11.10;114;390;144;145
+Yukon, province d'origine (3);Territoires du Nord-Ouest, province de destination (6);v32211704;11.13;40;20;19;41
+Yukon, province d'origine (3);Nunavut, province de destination (6);v32211705;11.14;0;10;10;0
+Territoires du Nord-Ouest, province d'origine (6);Terre-Neuve-et-Labrador, province de destination (3);v32211717;13.1;0;19;0;0
+Territoires du Nord-Ouest, province d'origine (6);Île-du-Prince-Édouard, province de destination (3);v32211718;13.2;0;0;0;0
+Territoires du Nord-Ouest, province d'origine (6);Nouvelle-Écosse, province de destination (3);v32211719;13.3;54;55;11;11
+Territoires du Nord-Ouest, province d'origine (6);Nouveau-Brunswick, province de destination (3);v32211720;13.4;0;68;0;0
+Territoires du Nord-Ouest, province d'origine (6);Québec, province de destination (3);v32211721;13.5;0;49;37;12
+Territoires du Nord-Ouest, province d'origine (6);Ontario, province de destination (3);v32211722;13.6;82;170;77;29
+Territoires du Nord-Ouest, province d'origine (6);Manitoba, province de destination (3);v32211723;13.7;0;0;10;0
+Territoires du Nord-Ouest, province d'origine (6);Saskatchewan, province de destination (3);v32211724;13.8;52;56;19;9
+Territoires du Nord-Ouest, province d'origine (6);Alberta, province de destination (3);v32211725;13.9;448;283;195;122
+Territoires du Nord-Ouest, province d'origine (6);Colombie-Britannique, province de destination (3);v32211726;13.10;138;119;110;30
+Territoires du Nord-Ouest, province d'origine (6);Yukon, province de destination (3);v32211727;13.11;109;62;42;42
+Territoires du Nord-Ouest, province d'origine (6);Nunavut, province de destination (6);v32211728;13.14;14;19;7;7
+Nunavut, province d'origine (6);Terre-Neuve-et-Labrador, province de destination (3);v32211729;14.1;36;0;13;0
+Nunavut, province d'origine (6);Île-du-Prince-Édouard, province de destination (3);v32211730;14.2;0;17;0;0
+Nunavut, province d'origine (6);Nouvelle-Écosse, province de destination (3);v32211731;14.3;8;22;23;18
+Nunavut, province d'origine (6);Nouveau-Brunswick, province de destination (3);v32211732;14.4;0;8;8;0
+Nunavut, province d'origine (6);Québec, province de destination (3);v32211733;14.5;0;0;32;21
+Nunavut, province d'origine (6);Ontario, province de destination (3);v32211734;14.6;197;120;36;41
+Nunavut, province d'origine (6);Manitoba, province de destination (3);v32211735;14.7;33;62;0;14
+Nunavut, province d'origine (6);Saskatchewan, province de destination (3);v32211736;14.8;24;21;0;0
+Nunavut, province d'origine (6);Alberta, province de destination (3);v32211737;14.9;193;0;10;10
+Nunavut, province d'origine (6);Colombie-Britannique, province de destination (3);v32211738;14.10;29;0;27;0
+Nunavut, province d'origine (6);Yukon, province de destination (3);v32211739;14.11;0;9;0;0
+Nunavut, province d'origine (6);Territoires du Nord-Ouest, province de destination (6);v32211740;14.13;35;26;0;12
+Renvois :
+1;"Période trimestrielle : Période I = janvier-mars; Période II = avril-juin; Période III = juillet-septembre; Période IV = octobre-décembre."
+2;La migration interprovinciale correspond à l'ensemble des déplacements d'une province ou d'un territoire vers un autre qui entraînent un changement du lieu habituel de résidence. Un individu qui effectue un tel déplacement sera un sortant pour sa province ou son territoire d'origine et un entrant pour sa province ou son territoire de destination.
+3;De juillet 1971 à juin 1976, les estimations sont basées sur les données d'allocations familiales. De juillet 1976 à juin 2012, les estimations sont basées sur les données fiscales de l'Agence du revenu du Canada (ARC). À partir de juillet 2012, les estimations sont basées sur les données du programme de prestation fiscale canadienne pour enfants de l'ARC et sont provisoires.
+6;Avant juillet 1991, seules les données des Territoires du Nord-Ouest et du Nunavut combinées sont disponibles. De juillet 1991 à juin 2012, les estimations sont basées sur les données fiscales de l'Agence du revenu du Canada (ARC). À partir de juillet 2012, les estimations sont basées sur les données du programme de prestation fiscale canadienne pour enfants de l'ARC et sont provisoires.
+7;Le nombre de migrants interprovinciaux est définitif jusqu'en juin 2012 et provisoire à partir de juillet 2012.
+8;L'accroissement démographique, qui sert au calcul des estimations de la population, est composé de l'accroissement naturel (CANSIM 53-0001), de la migration internationale (CANSIM 51-0037) et de la migration interprovinciale (CANSIM 51-0017 et 51-0045).
+9;En raison de différences méthodologiques et conceptuelles, les estimations provisoires et mises à jour des entrants et des sortants interprovinciaux ne sont pas comparables aux estimations définitives. Pour plus de détails sur ces différences, veuillez vous référer au chapitre 7 de la publication numéro 91-528-X au catalogue.
+Source:
+Statistique Canada. Tableau 051-0045 - Migrants interprovinciaux, selon la province ou territoire d'origine et de la destination, trimestriel (personnes)
+(site consulté le 07 septembre 2014)
